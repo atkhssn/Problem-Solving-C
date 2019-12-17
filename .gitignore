@@ -1,0 +1,4 @@
+/* git ignoring this file */
+
+*.o
+*.exe
