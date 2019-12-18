@@ -9,7 +9,7 @@ int main()
     printf("Enter temperature in Celsius: ");
     scanf("%f", &celsius);
 
-    fahrenheit = (celsius * (9 / 5)) + 32; // Celsius to Fahrenheit
+    fahrenheit = (celsius * (9 / 5)) + 32; // Celsius to Fahrenheit Formula (C * 9/5) + 32
 
     printf("\nYou entered %.2f Celsius = %.2f Fahrenheit\n", celsius, fahrenheit);
 
